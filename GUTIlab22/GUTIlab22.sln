@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUTIlab22", "GUTIlab22\GUTIlab22.csproj", "{24A953AD-1831-4B9C-8E0F-C864366ABD21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24A953AD-1831-4B9C-8E0F-C864366ABD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A953AD-1831-4B9C-8E0F-C864366ABD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A953AD-1831-4B9C-8E0F-C864366ABD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A953AD-1831-4B9C-8E0F-C864366ABD21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49379F61-E759-4EA2-83C1-83CA5D4AE079}
+	EndGlobalSection
+EndGlobal
